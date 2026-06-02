@@ -5,3 +5,12 @@
 [submodule "makicoint"]
 	path = makicoint
 	url = https://github.com/merwanroudane/makicoint
+[submodule "mqqcause"]
+	path = mqqcause
+	url = https://github.com/merwanroudane/qqcaus
+[submodule "mqqr"]
+	path = mqqr
+	url = https://github.com/merwanroudane/multiqqr
+[submodule "qqkrls"]
+	path = qqkrls
+	url = https://github.com/merwanroudane/qqkrlsr
