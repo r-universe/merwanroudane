@@ -14,3 +14,6 @@
 [submodule "qqkrls"]
 	path = qqkrls
 	url = https://github.com/merwanroudane/qqkrlsr
+[submodule "wqrr"]
+	path = wqrr
+	url = https://github.com/merwanroudane/wqrr
